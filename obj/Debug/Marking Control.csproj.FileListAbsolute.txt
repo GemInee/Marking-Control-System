@@ -1,0 +1,15 @@
+C:\Users\Geminee\source\repos\Marking Control\bin\Debug\Marking Control.exe.config
+C:\Users\Geminee\source\repos\Marking Control\bin\Debug\Marking Control.exe
+C:\Users\Geminee\source\repos\Marking Control\bin\Debug\Marking Control.pdb
+C:\Users\Geminee\source\repos\Marking Control\obj\Debug\Marking Control.csproj.AssemblyReference.cache
+C:\Users\Geminee\source\repos\Marking Control\obj\Debug\MainWindow.g.cs
+C:\Users\Geminee\source\repos\Marking Control\obj\Debug\App.g.cs
+C:\Users\Geminee\source\repos\Marking Control\obj\Debug\Marking Control_MarkupCompile.cache
+C:\Users\Geminee\source\repos\Marking Control\obj\Debug\Marking Control_MarkupCompile.lref
+C:\Users\Geminee\source\repos\Marking Control\obj\Debug\MainWindow.baml
+C:\Users\Geminee\source\repos\Marking Control\obj\Debug\Marking Control.g.resources
+C:\Users\Geminee\source\repos\Marking Control\obj\Debug\Marking_Control.Properties.Resources.resources
+C:\Users\Geminee\source\repos\Marking Control\obj\Debug\Marking Control.csproj.GenerateResource.cache
+C:\Users\Geminee\source\repos\Marking Control\obj\Debug\Marking Control.csproj.CoreCompileInputs.cache
+C:\Users\Geminee\source\repos\Marking Control\obj\Debug\Marking Control.exe
+C:\Users\Geminee\source\repos\Marking Control\obj\Debug\Marking Control.pdb
